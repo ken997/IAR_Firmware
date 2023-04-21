@@ -1,5 +1,5 @@
-G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM\STM32F407_Debug_500k_Sample_Data\BrowseInfo\Application\Debug\SystemView\SEGGER\SEGGER_SYSVIEW.pbi: \
-  G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Debug\SystemView\SEGGER\SEGGER_SYSVIEW.c \
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM\STM32F407_Debug_500k_Sample_Data\BrowseInfo\Application\Debug\SystemView\SEGGER\SEGGER_SYSVIEW.pbi: \
+  C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Debug\SystemView\SEGGER\SEGGER_SYSVIEW.c \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\string.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\ycheck.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\yvals.h \
@@ -11,15 +11,15 @@ G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM\STM32F407_Debug_50
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\stdlib.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Product_stdlib.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\stdarg.h \
-  G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Debug\SystemView\SEGGER\SEGGER_SYSVIEW_Int.h \
-  G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Debug\SystemView\SEGGER\SEGGER_SYSVIEW.h \
-  G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Debug\SystemView\SEGGER\SEGGER.h \
-  G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM\..\Core\Packages\Debug\SystemView\Config\Global.h \
-  G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Debug\SystemView\SEGGER\SEGGER_SYSVIEW_ConfDefaults.h \
-  G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM\..\Core\Packages\Debug\SystemView\Config\SEGGER_SYSVIEW_Conf.h \
-  G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM\..\Core\Packages\Debug\SystemView\Config\SEGGER_RTT_Conf.h \
+  C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Debug\SystemView\SEGGER\SEGGER_SYSVIEW_Int.h \
+  C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Debug\SystemView\SEGGER\SEGGER_SYSVIEW.h \
+  C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Debug\SystemView\SEGGER\SEGGER.h \
+  C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM\..\Core\Packages\Debug\SystemView\Config\Global.h \
+  C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Debug\SystemView\SEGGER\SEGGER_SYSVIEW_ConfDefaults.h \
+  C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM\..\Core\Packages\Debug\SystemView\Config\SEGGER_SYSVIEW_Conf.h \
+  C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM\..\Core\Packages\Debug\SystemView\Config\SEGGER_RTT_Conf.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\aarch32\intrinsics.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\aarch32\iccarm_builtin.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\aarch32\iar_intrinsics_common.h \
-  G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Debug\SystemView\SEGGER\SEGGER_RTT.h \
-  G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Debug\SystemView\SEGGER\..\Config\SEGGER_RTT_Conf.h
+  C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Debug\SystemView\SEGGER\SEGGER_RTT.h \
+  C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Debug\SystemView\SEGGER\..\Config\SEGGER_RTT_Conf.h

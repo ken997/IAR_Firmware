@@ -1,49 +1,49 @@
-"G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Firmware\Tasks\calculation.c"
+"C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Firmware\Tasks\calculation.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM\STM32F407_Debug_500k_Sample_Data\BrowseInfo\Application\User\Core\RTOS\Tasks\calculation.pbi.dep
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM\STM32F407_Debug_500k_Sample_Data\BrowseInfo\Application\User\Core\RTOS\Tasks\calculation.pbi.dep
 -o
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM\STM32F407_Debug_500k_Sample_Data\BrowseInfo\Application\User\Core\RTOS\Tasks\calculation.pbi
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM\STM32F407_Debug_500k_Sample_Data\BrowseInfo\Application\User\Core\RTOS\Tasks\calculation.pbi
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Firmware\Tasks
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Firmware\Tasks
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Core/STM32F4xx/Inc\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Core/STM32F4xx/Inc
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Core/Inc\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Core/Inc
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/portable/IAR/ARM_CM4F\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/portable/IAR/ARM_CM4F
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Drivers/CMSIS/Device/ST/STM32F4xx/Include\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Drivers/CMSIS/Device/ST/STM32F4xx/Include
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Drivers/CMSIS/Include\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Drivers/CMSIS/Include
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Core/Packages/Debug/SystemView/SEGGER\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Core/Packages/Debug/SystemView/SEGGER
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Core/Packages/Debug/SystemView/Config\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Core/Packages/Debug/SystemView/Config
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Core/Packages/Firmware/arm_math\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Core/Packages/Firmware/arm_math
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Core/STM32F4xx/Configuration/500k_Sample_Data\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Core/STM32F4xx/Configuration/500k_Sample_Data
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Core/Packages/Debug/SerialWireDebug\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Core/Packages/Debug/SerialWireDebug
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Core/Packages/Firmware\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Core/Packages/Firmware
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Core/Packages/Firmware/Tasks\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Core/Packages/Firmware/Tasks
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM/../Core/Packages/Firmware/Interrupt_Callback\
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM/../Core/Packages/Firmware/Interrupt_Callback
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc\c\aarch32
 -I
@@ -51,39 +51,39 @@ C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc\c
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\STM32F4xx\Inc
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\STM32F4xx\Inc
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Inc
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Inc
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Drivers\STM32F4xx_HAL_Driver\Inc
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Drivers\STM32F4xx_HAL_Driver\Inc
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Middlewares\Third_Party\FreeRTOS\Source\include
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Middlewares\Third_Party\FreeRTOS\Source\include
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS_V2
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS_V2
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Middlewares\Third_Party\FreeRTOS\Source\portable\IAR\ARM_CM4F
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Middlewares\Third_Party\FreeRTOS\Source\portable\IAR\ARM_CM4F
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Drivers\CMSIS\Device\ST\STM32F4xx\Include
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Drivers\CMSIS\Include
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Drivers\CMSIS\Include
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Debug\SystemView\SEGGER
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Debug\SystemView\SEGGER
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Debug\SystemView\Config
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Debug\SystemView\Config
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Firmware\arm_math
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Firmware\arm_math
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\STM32F4xx\Configuration\500k_Sample_Data
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\STM32F4xx\Configuration\500k_Sample_Data
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Debug\SerialWireDebug
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Debug\SerialWireDebug
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Firmware
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Firmware
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Firmware\Tasks
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Firmware\Tasks
 -I
-G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Firmware\Interrupt_Callback
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Firmware\Interrupt_Callback
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0

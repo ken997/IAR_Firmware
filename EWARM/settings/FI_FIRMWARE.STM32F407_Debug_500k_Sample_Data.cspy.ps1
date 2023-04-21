@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM\settings\FI_FIRMWARE.STM32F407_Debug_500k_Sample_Data.general.xcl" --backend -f "G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM\settings\FI_FIRMWARE.STM32F407_Debug_500k_Sample_Data.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM\settings\FI_FIRMWARE.STM32F407_Debug_500k_Sample_Data.general.xcl" --backend -f "C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM\settings\FI_FIRMWARE.STM32F407_Debug_500k_Sample_Data.driver.xcl" 
 }
 else
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM\settings\FI_FIRMWARE.STM32F407_Debug_500k_Sample_Data.general.xcl" --debug_file=$debugfile --backend -f "G:\Meine Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM\settings\FI_FIRMWARE.STM32F407_Debug_500k_Sample_Data.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM\settings\FI_FIRMWARE.STM32F407_Debug_500k_Sample_Data.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM\settings\FI_FIRMWARE.STM32F407_Debug_500k_Sample_Data.driver.xcl" 
 }

@@ -1,7 +1,7 @@
-G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM\STM32F407_Debug_500k_Sample_Data\BrowseInfo\Application\Debug\SystemView\SEGGER\SEGGER_RTT_printf.pbi: \
-  G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Debug\SystemView\SEGGER\SEGGER_RTT_printf.c \
-  G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Debug\SystemView\SEGGER\SEGGER_RTT.h \
-  G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\Core\Packages\Debug\SystemView\SEGGER\..\Config\SEGGER_RTT_Conf.h \
+C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM\STM32F407_Debug_500k_Sample_Data\BrowseInfo\Application\Debug\SystemView\SEGGER\SEGGER_RTT_printf.pbi: \
+  C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Debug\SystemView\SEGGER\SEGGER_RTT_printf.c \
+  C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Debug\SystemView\SEGGER\SEGGER_RTT.h \
+  C:\Users\Ken\Documents\GitHub\IAR_Firmware\Core\Packages\Debug\SystemView\SEGGER\..\Config\SEGGER_RTT_Conf.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\aarch32\intrinsics.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\aarch32\iccarm_builtin.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\yvals.h \
@@ -14,4 +14,4 @@ G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM\STM32F407_Debug_50
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\ysizet.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Product_stdlib.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\stdarg.h \
-  G:\Meine\ Ablage\studium\Masterarbeit_files\FI_FIRMWARE\EWARM\..\Core\Packages\Debug\SystemView\Config\SEGGER_RTT_Conf.h
+  C:\Users\Ken\Documents\GitHub\IAR_Firmware\EWARM\..\Core\Packages\Debug\SystemView\Config\SEGGER_RTT_Conf.h
